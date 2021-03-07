@@ -1,3 +1,3 @@
 # SwiftUIListSwipeActions
 
-A description of this package.
+A custom SwiftUI swipe actions modifier.
